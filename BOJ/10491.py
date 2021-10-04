@@ -1,3 +1,5 @@
+# https://www.acmicpc.net/problem/10491
+
 import sys
 
 for sentence in sys.stdin:
