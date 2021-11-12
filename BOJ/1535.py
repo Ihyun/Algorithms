@@ -1,10 +1,6 @@
 # https://www.acmicpc.net/problem/1535
 
-global N
-global hps
-global dls
-global sol
-
+global N, hps, dls, sol
 N = int(input())
 hps = list(map(int, input().split()))
 dls = list(map(int, input().split()))
